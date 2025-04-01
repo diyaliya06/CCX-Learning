@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^$ main_copy.php [L]
+
+RewriteRule ^oopj$ resources/oopj.php [L]
+RewriteRule ^ss$ resources/ss.php [L]
+RewriteRule ^dbms$ resources/dbms.php [L]
+RewriteRule ^ca$ resources/ca.php [L]
+RewriteRule ^pp$ resources/pp.php [L]
