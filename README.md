@@ -47,18 +47,5 @@ CCX Website aims to provide accessible and engaging educational content. Users c
 5.  Use the Python playground to run Python code.
 6.  View badge instructions and earn badges.
 
-## Snapshots
-
-![Course Catalog Screenshot](path/to/course_catalog.png)
-_Displays the list of available courses._
-
-![Course Page Screenshot](path/to/course_page.png)
-_Shows course lectures and resources._
-
-![Python Playground Screenshot](path/to/python_playground.png)
-_Trinket embedded Python playground._
-
-![Badge Section Screenshot](path/to/badge_section.png)
-_Instructions for earning badges._
 
 
